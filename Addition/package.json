@@ -1,0 +1,19 @@
+{
+  "name": "hasi-addition-calculation",
+  "version": "1.0.0",
+  "description": "A simple age calculation with typescript nodejs and inquirer",
+  "main": "main.js",
+  "bin": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Syed Haseeb Ali\"",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
